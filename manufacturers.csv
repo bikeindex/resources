@@ -994,6 +994,7 @@ name,website,frame_maker,open_year,close_year,logo_url
 "Tamer", "", "", "", "", 
 "Tange-Seiki", "", "", "", "", 
 "Tangent Products", "", "", "", "", 
+<<<<<<< HEAD
 "Tati Cycles", "http://taticycles.com/", "true", "2006", "", https://bikeindex.s3.amazonaws.com/uploads/Ma/1209/tati.jpg 
 "Tec Labs", "", "", "", "", 
 "Tektro", "", "", "", "", 
