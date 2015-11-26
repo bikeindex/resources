@@ -787,6 +787,7 @@ name,website,frame_maker,open_year,close_year,logo_url
 "Park", "", "", "", "", 
 "Parkpre", "http://www.parkpre.com/", "true", "", "", 
 "Parlee", "http://www.parleecycles.com", "true", "", "", 
+"Pasculli","http://www.pasculli.de","true","","","http://www.pasculli.de/wp-content/themes/pasculli/images/pasculli_typo.png"
 "Pashley Cycles", "http://www.pashley.co.uk/", "true", "", "", 
 "Patria", "http://www.patria.net/en/bicycles/", "true", "", "", 
 "Paul", "http://www.paulcomp.com/", "false", "", "", 
