@@ -1,9 +1,7 @@
-# [Bike Index](https://bikeindex.org) resources
+** __Deprecated BikeIndex.org resources archive__ **
 
-## Welcome
+Previously there was a spreadsheet here with the bicycling manufacturers from Bike Index, but it wasn't kept up to date.
 
-View the .csv of the manufacturers Bike Index knows about
+This spreadsheet is now exclusively stored on Bike Index itself - [bikeindex.org/manufacturers/tsv](https://bikeindex.org/manufacturers/tsv) (it's a .tsv, because it's tab separated). 
 
-[Submit a pull request](https://help.github.com/articles/using-pull-requests) if you'd like to add a manufacturer, or update details about an existing one
-
-P.S. There might occasionally be a disconnect between this archive and the actual site's data, but we will strive to keep everything as up to date as possible (We'll automate this at some point in the future)
+If you'd like to add a manufacturer or update one of the existing ones, please comment on [bikeindex.org/manufacturers](https://bikeindex.org/manufacturers)
