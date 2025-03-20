@@ -1,5 +1,5 @@
 # [BikeIndex.org](https://bikeindex.org/) resources
 
-Bike Index manufacturers and other lists.
+Bike Index manufacturers.
 
 Submit a PR to suggest an update!
