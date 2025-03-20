@@ -7,12 +7,6 @@ jobs:
   lint_and_test:
     runs-on: ubuntu-latest
     steps:
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get -y install \
-            wget
-
       - name: Checkout code
         uses: actions/checkout@v4
 
@@ -24,4 +18,5 @@ jobs:
       - name: Lint code for consistent style
         run: bin/lint --no-fix
       - name: Run tests
-        run: bundle exec rspec
+        run: bundle exec rspec --color --format progress --default-path tests
+
