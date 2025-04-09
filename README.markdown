@@ -1,4 +1,4 @@
-# [BikeIndex.org](https://bikeindex.org/) resources
+# BikeIndex.org resources
 
 The list of manufacturers that Bike Index knows about: [manufacturers.csv](manufacturers.csv).
 
