@@ -1,5 +1,7 @@
 # [BikeIndex.org](https://bikeindex.org/) resources
 
-Bike Index manufacturers.
+The list of manufacturers that Bike Index knows about: [manufacturers.csv](manufacturers.csv).
 
-Submit a PR to suggest an update!
+Are we missing a manufacturer? Or missing data about a manufacturer?
+
+Submit a Pull Request to suggest an update!
