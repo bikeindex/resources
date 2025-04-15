@@ -1,39 +1,38 @@
-Flavor,Families
+flavor,families
+All road,ATB (All Terrain Bike) & Road bike
 Gravel,ATB (All Terrain Bike)
+Bike touring,ATB (All Terrain Bike) & Road bike
+Bikepacking,ATB (All Terrain Bike) & MTB (Mountain Bike)
+Randonneuring,ATB (All Terrain Bike) & Road bike
 Monster Cross,ATB (All Terrain Bike)
 Cyclocross,ATB (All Terrain Bike)
+Enduro,MTB (Mountain Bike)
+Freeride,MTB (Mountain Bike)
 Trail / All-Mountain,MTB (Mountain Bike)
 Cross-Country (XC),MTB (Mountain Bike)
-Enduro,MTB (Mountain Bike)
 Downhill,MTB (Mountain Bike)
-Freeride,MTB (Mountain Bike)
-Triathalon,Road bike
-Time Trial,Road bike
-Criterium,Road bike
 Climbing,Road bike
+Triathalon,Road bike
+Time Trial,Road bike & Track racing
+Criterium,Road bike
 Aero,Road bike
-All road,Road bike & ATB (All Terrain Bike)
 Endurance / Sportive,Road bike
-Randonneuring,Road bike & ATB (All Terrain Bike)
 Pursuit,Track racing
 Sprint,Track racing
 Keirin / NJS,Track racing
-Time Trial,Track racing
-Bike touring,Road Bike & ATB (All Terrain Bike)
-Bikepacking,MTB (Mountain Bike) & ATB (All Terrain Bike)
 Child carrying,Cargo
 Commercial,Cargo
-Beach Cruiser,
-Hybrid,
-Commuter,
+Cruiser,BMX
 Race,BMX
 Freestyle,BMX
 Flatland,BMX
-Cruiser,BMX
 Slopestyle,Dirt Jumper
 4X/Dual Slalom,Dirt Jumper
-Street Trials,Trials
 Pure Trials,Trials
-Fixed Gear Freestyle,
+Street Trials,Trials
+Commuter,
 Bike Polo,
+Fixed Gear Freestyle,
 Artistic cycling,
+Beach Cruiser,
+Hybrid,
