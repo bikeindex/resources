@@ -1,6 +1,6 @@
 # Bike (and micromobility vehicle) data
 
-The data here is used by [BikeIndex.org](https://bikeindex.org) to classify bikes and micromobility vehicles
+The data here is used by [BikeIndex.org](https://bikeindex.org) to classify bikes and micromobility vehicles.
 
 - The manufacturers that Bike Index knows about: [manufacturers.csv](manufacturers.csv)
 - Primary Activities: [primary_activities.csv](primary_activities.csv)
