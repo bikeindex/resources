@@ -11,3 +11,10 @@ Are we missing a bicycle activity?
 Or a component type?
 
 Submit a Pull Request to suggest an update!
+
+
+## Copyright and License
+
+The data files (`*.csv` and `*.json`) in this repository are licensed under the [Open Database License v1.0](LICENSE_DATA).
+
+All other files in this repository are licensed under the [GNU Affero General Public License v3.0](LICENSE).
