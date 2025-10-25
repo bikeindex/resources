@@ -1,14 +1,14 @@
 flavor,families
 Commuting (around town / hybrid),
-Gravel,ATB (All Terrain Biking)
-Cyclocross,ATB (All Terrain Biking)
 Bike Polo,
 Fixed Gear Freestyle,
-Bikepacking,ATB (All Terrain Biking) & MTB (Mountain Biking)
-Bike touring,ATB (All Terrain Biking) & Road biking
-Randonneuring,ATB (All Terrain Biking) & Road biking
-All road,ATB (All Terrain Biking) & Road biking
-Monster Cross,ATB (All Terrain Biking)
+Gravel,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc."
+Cyclocross,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc."
+Bikepacking,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc. & MTB (Mountain Biking)"
+Bike touring,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc. & Road biking"
+Randonneuring,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc. & Road biking"
+All road,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc. & Road biking"
+Monster Cross,"ATB (All Terrain Biking) — Gravel, Cyclocross, etc."
 Triathalon,Road biking
 Time Trial,Road biking & Track racing
 Criterium,Road biking
