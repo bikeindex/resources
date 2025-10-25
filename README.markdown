@@ -1,4 +1,6 @@
-# BikeIndex.org resources
+# Bike (and micromobility vehicle) data
+
+The data here is used by [BikeIndex.org](https://bikeindex.org) to classify bikes and micromobility vehicles.
 
 - The manufacturers that Bike Index knows about: [manufacturers.csv](manufacturers.csv)
 - Primary Activities: [primary_activities.csv](primary_activities.csv)
@@ -15,6 +17,6 @@ Submit a Pull Request to suggest an update!
 
 ## Copyright and License
 
-The data files (`*.csv` and `*.json`) in this repository are licensed under the [Open Database License v1.0](LICENSE_DATA).
+The data files (`*.csv` and `*.json`) in this repository are licensed under the [Open Database License v1.0](LICENSE_DATA)
 
-All other files in this repository are licensed under the [GNU Affero General Public License v3.0](LICENSE).
+All other files in this repository are licensed under the [GNU Affero General Public License v3.0](LICENSE)
